@@ -33,7 +33,10 @@ import Object_Repo.LoginPage;
 
 public class CreateContactTest extends BaseClass {
 
+
 	//RajanRegBranch Created for my Updates
+
+//latest Pulled for conflict
 	
 	@Test(groups = "regressionTest")
 	public void createContactTest() throws Throwable {
